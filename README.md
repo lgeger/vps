@@ -86,4 +86,4 @@ HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged�
 
 本文页面：
 
-<a rel="noopener" href="https://lgeger.github.io/vps" target="_blank">好用便宜的VPS推荐</a>
+<a rel="noopener" href="https://lgeger.github.io/vps/" target="_blank">好用便宜的VPS推荐</a>

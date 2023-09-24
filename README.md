@@ -1,4 +1,4 @@
-# 2022便宜好用的VPS推荐，美国香港VPS避坑攻略
+# 2023便宜好用的VPS推荐，美国香港VPS避坑攻略
 
 在论坛、QQ群或网站留言里，经常会有人问有哪些便宜的VPS。因为不少人买国外VPS都是用来搭梯子<a rel="noopener nofollow" href="https://github.com/search?q=VPN+%E7%BF%BB%E5%A2%99+%E6%8E%A8%E8%8D%90" target="_blank">科学上网</a>翻墙、跑跑任务、建个人网站，一般对于VPS的性能要求不算太高，能满足基本需求即可。但需要注意的是，买美国和香港VPS的时候有一些坑需要避开，不然即浪费金钱、精力，又费时间，得不偿失。
 
@@ -21,9 +21,9 @@
 
 如果是建站，网站访客不多的话可以考虑，网站流量很大的话美国vps（CN2 Gia线路）不香吗？在国内打开站点慢是慢点，但不会和香港vps差距很大，国外访问就更快了。简单来说，香港VPS适合要求在大陆访问速度快、不用备案、网站访客量不大的用户。
 
-当然，有钱就能任性，钱管够香港vps还是很香的，钱不够的同学请参考上面我的建议。<a rel="noopener" href="https://linkv.org/bwhk/" target="_blank">搬瓦工的香港VPS</a>，除了价格贵没什么大的缺点，预算充足可以考虑，但是搬瓦工除香港之外的机房不再推荐购买，因为服务器IP大面积被封，有些新开的服务器IP就不能用，付费换IP也不能保证可用。
+当然，有钱就能任性，钱管够香港vps还是很香的，钱不够的同学请参考上面我的建议。<a rel="noopener" href="https://bwh88.net/cart.php?a=confproduct&aff=72842" target="_blank">搬瓦工的香港VPS</a>，除了价格贵没什么大的缺点，预算充足可以考虑，但是搬瓦工除香港之外的机房不再推荐购买，因为服务器IP大面积被封，有些新开的服务器IP就不能用，付费换IP也不能保证可用。
 
-## 便宜的高性能VPS推荐 - <a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>
+## 便宜的高性能VPS推荐 - <a rel="nofollow noopener" href="https://www.hostwinds.com/30265.html" target="_blank">HostWinds</a>
 
 [![HostWinds](https://www.safewebcn.com/img/hostwinds-logo-min.png)](#便宜的高性能vps推荐---hostwinds)
 
@@ -42,11 +42,11 @@ HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged�
 
 可以看到非托管型的Linux性价比最高了，每月费用甚至比Vultr还低，更不用说搬瓦工了，但是系统配置却比Vultr更高。机房选择有达拉斯，西雅图和阿姆斯特丹。我建议选择西雅图机房，国内访问速度还不错。目前官网正做活动，新用户优惠10%！
 
-#### <a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">获取HostWinds优惠链接>></a>
+#### <a rel="nofollow noopener" href="https://www.hostwinds.com/30265.html" target="_blank">获取HostWinds优惠链接>></a>
 
 ### 如何购买Hostwinds-VPS
 
-下面我以Unmanaged非托管型VPS为例进行说明，首先<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">打开Hostwinds官网</a>，选择Unmanaged， 1GB – $4.99这款VPS。
+下面我以Unmanaged非托管型VPS为例进行说明，首先<a rel="nofollow noopener" href="https://www.hostwinds.com/30265.html" target="_blank">打开Hostwinds官网</a>，选择Unmanaged， 1GB – $4.99这款VPS。
 
 [![如何购买HostWinds](https://www.safewebcn.com/img/Hostwinds-Unmanaged-vps.png)](#如何购买hostwinds-vps)
 
@@ -86,4 +86,4 @@ HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged�
 
 本文页面：
 
-<a rel="noopener" href="https://vpsda.github.io/" target="_blank">好用便宜的VPS推荐</a>
+<a rel="noopener" href="https://lgeger.github.io/vps" target="_blank">好用便宜的VPS推荐</a>
